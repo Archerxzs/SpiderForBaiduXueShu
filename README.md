@@ -1,0 +1,3 @@
+# SpiderForBaiduXueShu
+BaiDuXueShu_Spider
+根据增量的方式逐步完善爬虫的相关功能。
